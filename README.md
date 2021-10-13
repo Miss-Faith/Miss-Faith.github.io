@@ -1,3 +1,3 @@
-git rm readme.md
-git commit
-git push
+$ git rm readme.md
+$ git commit
+$ git push
